@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### CS student at Cooper Union. Previously deployed LLMs in air-gapped environment and finetuned STT at the Ministry of National Defense of ROK. Building in public
 <!--
 **igotthisbros/igotthisbros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
